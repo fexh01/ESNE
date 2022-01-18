@@ -1,0 +1,11 @@
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.exe
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.deps.json
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.runtimeconfig.json
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.runtimeconfig.dev.json
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.dll
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.0\Amigo invisible.pdb
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.0\Amigo invisible.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.0\Amigo invisible.AssemblyInfoInputs.cache
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.0\Amigo invisible.AssemblyInfo.cs
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.0\Amigo invisible.dll
+C:\Users\felix\Desktop\Navidad Uni\C#\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.0\Amigo invisible.pdb

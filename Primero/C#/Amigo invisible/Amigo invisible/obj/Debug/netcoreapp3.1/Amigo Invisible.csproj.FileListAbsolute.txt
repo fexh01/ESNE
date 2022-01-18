@@ -1,0 +1,107 @@
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+C:\Users\felix\Desktop\Amigo Invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+E:\Uni\2019-20\Entregas navidad\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+E:\Uni\2019-20\Entregas semana 20-01-20\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+C:\Users\felix\Desktop\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csproj.CoreCompileInputs.cache
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\Universidad\Entregas\Julio Pendientes\C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.genruntimeconfig.cache
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csproj.CoreCompileInputs.cache
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\Drive\ESNE\Julio Pendientes\30-06 C#\1º\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.genruntimeconfig.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csproj.CoreCompileInputs.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible v1.0\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.genruntimeconfig.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.exe
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.deps.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.runtimeconfig.dev.json
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\bin\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csprojAssemblyReference.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfoInputs.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.AssemblyInfo.cs
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.csproj.CoreCompileInputs.cache
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.dll
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.pdb
+D:\ESNE otros\Julio Pendientes\30-06 C#\Amigo invisible\Amigo Invisible\obj\Debug\netcoreapp3.1\Amigo Invisible.genruntimeconfig.cache
