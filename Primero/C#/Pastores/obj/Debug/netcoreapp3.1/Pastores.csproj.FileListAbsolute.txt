@@ -1,0 +1,33 @@
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.exe
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.deps.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.dev.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\bin\Debug\netcoreapp3.1\Pastores.pdb
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\obj\Debug\netcoreapp3.1\Pastores.csprojAssemblyReference.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfoInputs.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfo.cs
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\obj\Debug\netcoreapp3.1\Pastores.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\Pastores\obj\Debug\netcoreapp3.1\Pastores.pdb
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.exe
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.deps.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.dev.json
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\bin\Debug\netcoreapp3.1\Pastores.pdb
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\obj\Debug\netcoreapp3.1\Pastores.csprojAssemblyReference.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfoInputs.cache
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfo.cs
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\obj\Debug\netcoreapp3.1\Pastores.dll
+F:\Uni\2019-20\Entregas examenes 1er cuatri\C#\Pastores\obj\Debug\netcoreapp3.1\Pastores.pdb
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.exe
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.deps.json
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.json
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.runtimeconfig.dev.json
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.dll
+E:\Uni\2019-20\C#\Entregas\Pastores\bin\Debug\netcoreapp3.1\Pastores.pdb
+E:\Uni\2019-20\C#\Entregas\Pastores\obj\Debug\netcoreapp3.1\Pastores.csprojAssemblyReference.cache
+E:\Uni\2019-20\C#\Entregas\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfoInputs.cache
+E:\Uni\2019-20\C#\Entregas\Pastores\obj\Debug\netcoreapp3.1\Pastores.AssemblyInfo.cs
+E:\Uni\2019-20\C#\Entregas\Pastores\obj\Debug\netcoreapp3.1\Pastores.dll
+E:\Uni\2019-20\C#\Entregas\Pastores\obj\Debug\netcoreapp3.1\Pastores.pdb
