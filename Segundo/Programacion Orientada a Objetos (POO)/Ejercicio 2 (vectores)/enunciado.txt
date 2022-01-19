@@ -1,0 +1,24 @@
+Tareas:
+
+(1) Lee los ficheros Cuadrado.hpp, Cuadrado.cpp, Triangulo.hpp y
+    Triangulo.cpp. Estos ficheros definen las clases Cuadrado y Triángulo.
+    Las clases tienen atributos para el nombre de la figura, su perímetro y el
+    valor de sus lados según la figura. Las clases tienen constructores
+    respectivos, y getters para nombres, perímetro y área.
+
+(2) Lee el código de main.cpp que crea algunos objetos cuadrado y triángulo e
+    imprime por pantalla los valores del nombre, perímetro y área.
+
+SE PIDE
+
+(a) Crea una clase común Figura de la que hereden las clases Cuadrado y
+    Triangulo. Esta clase debe abstraer el comportamiento común de ambas
+    figuras y dejar el comportamiento específico en las clases hijas.
+
+(b) Modifica el código de las clases Triangulo y Cuadrado para que hereden de
+    la clase Figura como indica el punto (a).
+
+(c) Modifica el fichero main.cpp de forma que use un único array de punteros a
+    objetos Figura.
+
+La entrega debe contener todos los ficheros creados y modificados.
