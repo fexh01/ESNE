@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a05f51d783e55e4baf119eba8268950
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteTorreta: {instanceID: 0}
+  - torreta: {instanceID: 0}
+  - SMolotov: {fileID: 1025640361791053995, guid: 36d11840defd4214fa0c36bce1d2d5f3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

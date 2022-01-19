@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: b83e5a81b0e6b1948aafdf5317b42995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6695470475219504216
+    second: animacion plataforma rota_0
+  - first:
+      213: -1838609852973054104
+    second: animacion plataforma rota_1
+  - first:
+      213: 2938420080241031169
+    second: animacion plataforma rota_2
+  - first:
+      213: -6206334421640764611
+    second: animacion plataforma rota_3
+  - first:
+      213: 826636850533066590
+    second: animacion plataforma rota_4
+  - first:
+      213: -8977921402012219268
+    second: animacion plataforma rota_5
+  - first:
+      213: 6312796265089011842
+    second: animacion plataforma rota_6
+  - first:
+      213: 8919912167697978338
+    second: animacion plataforma rota_7
+  - first:
+      213: -3610330137968980284
+    second: animacion plataforma rota_8
+  - first:
+      213: 9176256946044701686
+    second: animacion plataforma rota_9
+  - first:
+      213: 9170396195647873749
+    second: animacion plataforma rota_10
+  - first:
+      213: 8546955503617813498
+    second: animacion plataforma rota_11
+  - first:
+      213: -870536009556073433
+    second: animacion plataforma rota_12
+  - first:
+      213: -946940456626067473
+    second: animacion plataforma rota_13
+  - first:
+      213: 6460384482167020066
+    second: animacion plataforma rota_14
+  - first:
+      213: -8980547946289882541
+    second: animacion plataforma rota_15
+  - first:
+      213: 6211290650370163327
+    second: animacion plataforma rota_0
+  - first:
+      213: 3835752927944486810
+    second: animacion plataforma rota_1
+  - first:
+      213: -3667103831576669596
+    second: animacion plataforma rota_2
+  - first:
+      213: 4457335708142192105
+    second: animacion plataforma rota_3
+  - first:
+      213: -5960667210237932048
+    second: animacion plataforma rota_4
+  - first:
+      213: -2532925825696329891
+    second: animacion plataforma rota_5
+  - first:
+      213: -9059075572454323839
+    second: animacion plataforma rota_6
+  - first:
+      213: -2031883584688103524
+    second: animacion plataforma rota_7
+  - first:
+      213: -1671597397453919804
+    second: animacion plataforma rota_8
+  - first:
+      213: -2585804225719022782
+    second: animacion plataforma rota_16
+  - first:
+      213: 5505371176440423501
+    second: animacion plataforma rota_17
+  - first:
+      213: -1889041805825150989
+    second: animacion plataforma rota_18
+  - first:
+      213: -4933621438332776632
+    second: animacion plataforma rota_19
+  - first:
+      213: -6876861296709282141
+    second: animacion plataforma rota_20
+  - first:
+      213: 563607577738264023
+    second: animacion plataforma rota_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 325
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion plataforma rota_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11721
+        width: 2182
+        height: 712
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c40c00ffe23650800000000000000
+      internalID: 6211290650370163327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10334
+        width: 2182
+        height: 685
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fab4c17f45b3530800000000000000
+      internalID: 3835752927944486810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8806
+        width: 2182
+        height: 777
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462166c8e74db1dc0800000000000000
+      internalID: -3667103831576669596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7379
+        width: 2182
+        height: 741
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5ca78e533abdd30800000000000000
+      internalID: 4457335708142192105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5748
+        width: 2182
+        height: 802
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0375d0c4774da0800000000000000
+      internalID: -5960667210237932048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4147
+        width: 2182
+        height: 859
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f05fca16d39dcd0800000000000000
+      internalID: -2532925825696329891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2731
+        width: 2182
+        height: 782
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189017e83c2b74280800000000000000
+      internalID: -9059075572454323839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1314
+        width: 2182
+        height: 844
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd7b525ac4dc3e0800000000000000
+      internalID: -2031883584688103524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 2182
+        height: 737
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9aa45060b4dc8e0800000000000000
+      internalID: -1671597397453919804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion plataforma rota_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 5234
+        width: 801
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb84b4131d985f70800000000000000
+      internalID: 9176256946044701686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

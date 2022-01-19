@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c17f40d478bbb7c4cb0dcf5107a7f6f8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: subakrie
+  fontNames:
+  - subakrie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e40ebb06f14318a419868f3f89a7f651, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
