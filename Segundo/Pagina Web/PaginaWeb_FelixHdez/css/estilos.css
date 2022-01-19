@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'JetBrains Mono', monospace;
+    color: #2AFF00;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+header{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+
+
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+    text-decoration: underline;
+}
+h3{
+   font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+
+
+
+img {
+
+    vertical-align: middle;
+}
+
+
+
+#menu {
+
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#menu > ul {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#menu > ul > li {
+    list-style: none;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+section {
+    min-height: 100vh;
+    padding: 5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+#inicio{
+    background-image: url(../media/imagenes/consola.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+
+
+
+#biografia > div .izquierda{
+    width: 30%;
+    float: left;  
+}
+
+
+
+
+#proyectos > div {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 6em;
+}
+
+#proyectos .proyects{
+    width: 70%;
+}
+
+#proyectos .proyecto3{
+    width: 30%;
+}
+
+
+#proyectos > div > figure {
+    flex: 40%;
+    position: relative;
+    
+}
+
+#proyectos > div > figure > figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(8, 8, 10, 0.8);
+    font-weight: bold;
+    padding: 2em;
+    transition: 0.5s;
+    opacity: 0;
+    font-size: 20px;
+}
+
+#proyectos > div > figure:hover > figcaption {
+    opacity: 1;
+}
+
+
+
+
+
+
+#contacto > div {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 6em;
+}
+
