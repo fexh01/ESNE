@@ -1,1 +1,1 @@
-Pagina web realizada a modo de Curriculum vitae como practica 
+Página web realizada a modo de Curriculum vitae como práctica
