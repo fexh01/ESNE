@@ -1,0 +1,15 @@
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\Aventura de consola.exe
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\Aventura de consola.deps.json
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\Aventura de consola.runtimeconfig.json
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\Aventura de consola.dll
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\ref\Aventura de consola.dll
+C:\Users\felix\Desktop\Aventura de consola\bin\Debug\net6.0\Aventura de consola.pdb
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.csproj.AssemblyReference.cache
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.AssemblyInfoInputs.cache
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.AssemblyInfo.cs
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.dll
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\ref\Aventura de consola.dll
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.pdb
+C:\Users\felix\Desktop\Aventura de consola\obj\Debug\net6.0\Aventura de consola.genruntimeconfig.cache
