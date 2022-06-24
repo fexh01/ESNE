@@ -1,1 +1,1 @@
-Juegos realizados como entregas desarrollados en Visual Studio Code
+Juegos realizados como entregas desarrollados en JavaScript con Visual Studio Code
